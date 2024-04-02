@@ -1,3 +1,8 @@
 {
-  "explorer.compactFolders": false
+  "explorer.compactFolders": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // cambiar las comillas dobles por simples,
+  "prettier.singleQuote": true,
+  // agregar espacios al momento de importar una dependencia entre llaves
+  "prettier.bracketSpacing": true,
 }
